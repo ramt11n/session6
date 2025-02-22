@@ -1,9 +1,9 @@
-div{
+div.first{
     width: 100%;
     height: 200px;
     background-color: blueviolet;
 }
-div:nth-of-type(2){
+div.second{
     width: 100%;
     height: 200px;
     background-color: crimson;
